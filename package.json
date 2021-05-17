@@ -1,0 +1,15 @@
+{
+    "name": "hash",
+    "version": "1.0.0",
+    "description": "Hashing password",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "Folorunso Tolulope",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "express": "^4.17.1"
+    }
+}
